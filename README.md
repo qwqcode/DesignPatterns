@@ -1,5 +1,36 @@
 # 设计模式
 
+[《研磨设计模式》](https://book.douban.com/subject/5343318/) 阅读笔记
+
+## 学习进度
+
+[得分/10] 敲代码+1 理论阅读+1 理论评价(大概理解)+2 项目实践+1 自我感觉良好+5
+
+1. [4] [简单工厂](./1_简单工厂.md)
+2. [ ] [外观模式](./2_外观模式.md)
+3. [ ] 适配器模式 (Adapter)
+4. [ ] 单例模式 (Singleton)
+5. [ ] 工厂方法模式 (Factory Method)
+6. [ ] 抽象工厂模式 (Abstract Factory)
+7. [ ] 生成器模式 (Builder)
+8. [ ] 原型模式 (Prototype)
+9. [ ] 中介者模式 (Mediator)
+10. [ ] 代理模式 (Proxy)
+11. [ ] 观察者模式 (Observer)
+12. [ ] 命令模式 (Command)
+13. [ ] 迭代器模式 (Iterator)
+14. [ ] 组合模式 (Composite)
+15. [ ] 模版方法模式 (Template Method)
+16. [ ] 策略模式 (Strategy)
+17. [ ] 状态模式 (State)
+18. [ ] 备忘录模式 (Memento)
+19. [ ] 享元模式 (Flyweight)
+20. [ ] 解释器模式 (Interpreter)
+21. [ ] 装饰模式 (Decorator)
+22. [ ] 职责链模式 (Chian of Responsibility)
+23. [ ] 桥接模式 (Bridge)
+24. [ ] 访问者模式 (Visitor)
+
 ## 设计模式是什么？
 
 设计模式是指在软件开发中，经过验证的，用于解决在特定环境下、重复出现的、特定问题的解决方案。
