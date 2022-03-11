@@ -1,6 +1,6 @@
 # 设计模式
 
-[《研磨设计模式》](https://book.douban.com/subject/5343318/) 阅读笔记
+[《研磨设计模式》](https://book.douban.com/subject/5343318/) 学习笔记
 
 ## 学习进度
 
@@ -9,7 +9,7 @@
 1. [4] [简单工厂](./1_简单工厂.md)
 2. [4] [外观模式 (Facade)](./2_外观模式.md)
 3. [4] [适配器模式 (Adapter)](./3_适配器模式.md)
-4. [ ] [单例模式 (Singleton)](./4_单例模式.md)
+4. [6] [单例模式 (Singleton)](./4_单例模式.md)
 5. [ ] 工厂方法模式 (Factory Method)
 6. [ ] 抽象工厂模式 (Abstract Factory)
 7. [ ] 生成器模式 (Builder)
