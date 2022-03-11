@@ -1,6 +1,6 @@
 # 设计模式
 
-[《研磨设计模式》](https://book.douban.com/subject/5343318/) 学习笔记
+[《研磨设计模式》](https://book.douban.com/subject/5343318/) 学习笔记 (by @qwqcode)
 
 ## 学习进度
 
