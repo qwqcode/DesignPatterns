@@ -11,25 +11,25 @@
 3. [4] [适配器模式 (Adapter)](./3_适配器模式.md)
 4. [6] [单例模式 (Singleton)](./4_单例模式.md)
 5. [4] [工厂方法模式 (Factory Method)](./5_工厂方法模式.md)
-6. [ ] 抽象工厂模式 (Abstract Factory)
-7. [ ] 生成器模式 (Builder)
-8. [ ] 原型模式 (Prototype)
-9. [ ] 中介者模式 (Mediator)
-10. [ ] 代理模式 (Proxy)
-11. [ ] 观察者模式 (Observer)
-12. [ ] 命令模式 (Command)
-13. [ ] 迭代器模式 (Iterator)
-14. [ ] 组合模式 (Composite)
-15. [ ] 模版方法模式 (Template Method)
-16. [ ] 策略模式 (Strategy)
-17. [ ] 状态模式 (State)
-18. [ ] 备忘录模式 (Memento)
-19. [ ] 享元模式 (Flyweight)
-20. [ ] 解释器模式 (Interpreter)
-21. [ ] 装饰模式 (Decorator)
-22. [ ] 职责链模式 (Chian of Responsibility)
-23. [ ] 桥接模式 (Bridge)
-24. [ ] 访问者模式 (Visitor)
+6. [ ] 抽象工厂模式 (Abstract Factory) [3-15]
+7. [ ] 生成器模式 (Builder) [3-17]
+8. [ ] 原型模式 (Prototype) [3-19]
+9. [ ] 中介者模式 (Mediator) [3-22]
+10. [ ] 代理模式 (Proxy) [3-24]
+11. [ ] 观察者模式 (Observer) [3-26]
+12. [ ] 命令模式 (Command) [3-29]
+13. [ ] 迭代器模式 (Iterator) [3-31]
+14. [ ] 组合模式 (Composite) [4-2]
+15. [ ] 模版方法模式 (Template Method) [4-4]
+16. [ ] 策略模式 (Strategy) [4-7]
+17. [ ] 状态模式 (State) [4-9]
+18. [ ] 备忘录模式 (Memento) [4-10]
+19. [ ] 享元模式 (Flyweight) [4-13]
+20. [ ] 解释器模式 (Interpreter) [4-15]
+21. [ ] 装饰模式 (Decorator) [4-12]
+22. [ ] 职责链模式 (Chian of Responsibility) [4-14]
+23. [ ] 桥接模式 (Bridge) [4-16]
+24. [ ] 访问者模式 (Visitor) [4-19]
 
 ## 扩展知识
 
