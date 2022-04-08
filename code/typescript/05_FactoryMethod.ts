@@ -53,4 +53,4 @@ class ConcreteCreator extends Creator {
 ;(() => {
     let creator: Creator = new ConcreteCreator();
     creator.someOperation();
-});
+})();

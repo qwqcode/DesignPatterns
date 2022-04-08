@@ -64,4 +64,4 @@ class Facade {
 ;(() => {
     // 使用 Facade
     new Facade().test();
-});
+})();

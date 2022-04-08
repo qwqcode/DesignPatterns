@@ -59,4 +59,4 @@ class Adapter implements Target {
     let target: Target = new Adapter(adaptee);
     // 请求处理
     target.request();
-});
+})();

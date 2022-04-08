@@ -1,5 +1,6 @@
 /**
  * 抽象工厂模式 (Abstract Factory)
+ * 
  * 「选择产品族的实现」
  */
 
@@ -98,4 +99,4 @@ class ConcreteFactory2 implements AbstractFactory {
     // 通过抽象工厂来获取一系列对象，如产品 A 和产品 B
     af.createProductA();
     af.createProductB();
-});
+})();
